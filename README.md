@@ -2,7 +2,7 @@
 ### Hi there 👋
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fcellodove?color=green&label=hits&size=small)](https://myhits.vercel.app)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cellodove)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cellodove)](https://github.com/cellodove/github-readme-stats)
 
 
 
